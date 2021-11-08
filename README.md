@@ -22,6 +22,6 @@ Final project Learning from Data by Gijs Danoe (s3494888), Ate Jordaan (s3492338
     
 ## Models:
 
-- SVM: connect the data map and run all cells of svm.ipynb.
-- LSTM: connect the data map and run all cells of lstm.ipynb.
-- BERT: connect the data map and run all cells of bert.ipynb.
+- SVM: mount the data map, adjust the paths and run all cells of svm.ipynb.
+- LSTM: mount the data map, adjust the paths and run all cells of lstm.ipynb.
+- BERT: mount the data map, adjust the paths and run all cells of bert.ipynb.
