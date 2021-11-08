@@ -1,11 +1,11 @@
 # lfdfinalproject
 Final project Learning from Data by Gijs Danoe, Ate Jordaan and Jan Harms.
 
-Needed:
+# Needed:
 - COP climate change data
 - Kaggle all the news dataset. Download: https://www.kaggle.com/snapcrack/all-the-news
 
-Data preparation:
+# Data preparation:
   Climate change:
     1. Run train.py (OD stands for out-of-domain and refers to climate change news). This produces a training file (trainOD.csv).
 
@@ -17,7 +17,7 @@ Data preparation:
     
   Finally, put all files into a Drive map. To skip this, you can access the data Drive map at:             https://drive.google.com/drive/folders/1UCkRpxcXYOWS2WNMYVWetVSg9TwHIkNb?usp=sharing
     
-Models:
+# Models:
 - SVM:
 - LSTM:
 - BERT: connect the data map and run all cells of bert.ipynb.
