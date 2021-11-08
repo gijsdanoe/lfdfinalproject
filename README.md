@@ -4,6 +4,7 @@ Final project Learning from Data by Gijs Danoe (s3494888), Ate Jordaan (s3492338
 ## Needed:
 - COP climate change data
 - Kaggle all the news dataset. Download: https://www.kaggle.com/snapcrack/all-the-news
+- GloVe pre-trained word embeddings. Download: https://nlp.stanford.edu/projects/glove/
 
 ## Data preparation:
   Climate change:
