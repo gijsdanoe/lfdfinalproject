@@ -23,5 +23,5 @@ Final project Learning from Data by Gijs Danoe (s3494888), Ate Jordaan (s3492338
 ## Models:
 
 - SVM:
-- LSTM:
+- LSTM: run all cells of lstm.ipynb
 - BERT: connect the data map and run all cells of bert.ipynb.
