@@ -1,5 +1,5 @@
-# lfdfinalproject
-Final project Learning from Data by Gijs Danoe, Ate Jordaan and Jan Harms.
+## Learning from Data final project
+Final project Learning from Data by Gijs Danoe (s3494888), Ate Jordaan (s3492338) and Jan Harms (s2350904).
 
 # Needed:
 - COP climate change data
