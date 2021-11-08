@@ -13,10 +13,9 @@ Final project Learning from Data by Gijs Danoe (s3494888), Ate Jordaan (s3492338
 
   Non-climate change:
   
-    1. Run testcombine.py. This combines the three Kaggle folds into combined_csv.csv.
-    2. Run filter.py with command line argument 'all'. This produces a test file (test.csv) which does not contain any climate change data using wordlist.txt.
-    3. Run testsplit.py. This produces three files: trainID.csv, devID.csv and testID.csv. (ID stand for in domain and refers to non-climate change news).
-    4. For subdomain data, run filter.py with command line argument 'trump', 'police', 'education, 'immigration' or 'economy'. This will produce the corresponding test files.
+    1. Run filter.py with command line argument 'all'. This combines the Kaggle folds (combined_csv.csv) and produces a test file (test.csv) which does not contain        any climate change data using wordlist.txt.
+    2. Run testsplit.py. This produces three files: trainID.csv, devID.csv and testID.csv. (ID stand for in domain and refers to non-climate change news).
+    3. For subdomain data, run filter.py with command line argument 'trump', 'police', 'education, 'immigration' or 'economy'. This will produce the corresponding          test files.
     
   Finally, put all files into a Drive map. To skip this, you can access our data Drive map at: https://drive.google.com/drive/folders/1UCkRpxcXYOWS2WNMYVWetVSg9TwHIkNb?usp=sharing
     
